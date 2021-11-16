@@ -14,7 +14,7 @@
   "author": "Mukesh Chapagain",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.233.1",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.17.2",
     "cookie-parser": "^1.4.3",
     "ejs": "^2.5.6",
